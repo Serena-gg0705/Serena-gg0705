@@ -1,10 +1,6 @@
 ## Hi there 👋
-
-<!--
 **Serena-gg0705/Serena-gg0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on  tiktok
 - 🌱 I’m currently learning happy
 - 👯 I’m looking to collaborate on studing
